@@ -1,0 +1,25 @@
+{
+  "name": "pincode-api-india",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diptenusarkar/Pincode-API-India.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diptenusarkar/Pincode-API-India/issues"
+  },
+  "homepage": "https://github.com/Diptenusarkar/Pincode-API-India#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "express": "^4.18.2",
+    "xlsx": "^0.18.5"
+  }
+}
